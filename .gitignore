@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## NuGet
+packages/
+*.nupkg
+
+## Build artifacts
+*.exe
+*.dll
+*.pdb
+
+## Assets (large files)
+Assets/Images/*.jpg
+Assets/Images/*.png
+Assets/Images/*.jpeg
+Assets/Profiles/
+
+## Settings
+Properties/Settings.settings
